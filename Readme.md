@@ -1,0 +1,1 @@
+# Imagens para o teste A/B
